@@ -12,6 +12,11 @@ class Persona {
 	//Modificacion7
 	//Modificacion8
 	//Modificacion9
+	//Modificacion10
+	
+
+
+
 
 
 }
