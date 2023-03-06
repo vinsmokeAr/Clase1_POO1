@@ -8,7 +8,7 @@ class Persona {
 	//Modificacion3
 	//Modificacion4
 	//Modificacion5
-
+	//Modificacion6
 
 
 
