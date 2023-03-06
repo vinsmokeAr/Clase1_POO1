@@ -3,4 +3,6 @@ class Persona {
 
 //Declaracion de variables
 
+	//Modificacion1
+
 }
